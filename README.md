@@ -73,5 +73,12 @@ Some of the visualization created:
 
 The boxplot helped to identify outliers, which were subsequently removed for a more accurate analysis. Outliers can significantly impact statistical measures and distort the interpretation of results.
 
+## Contact
+
+For any questions, suggestions, or collaboration opportunities, feel free to reach out:
+
+- LinkedIn: [Giacomo Carta](https://www.linkedin.com/in/giacomo-carta-a49986160/)
+- TableauPublic: [Giacomo Carta](https://public.tableau.com/app/profile/giacomo.carta/vizzes)
+
 
 
