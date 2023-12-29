@@ -40,16 +40,35 @@ Other functions used include **df.loc**, **df.idmax**, **df.unique**, **df.sort_
 Some of the visualization created:
 
 - **Histogram** using **df.hist()**;
+
+
 ![histogram](https://github.com/giacomo-carta/python-practice/assets/153180003/1e409f7b-5982-4e89-acbe-1b2745d68f6c)
+
 - **Correlation Heatmap** using **sns.heatmap(corr)**;
+
+
 ![correlation_heatmap](https://github.com/giacomo-carta/python-practice/assets/153180003/c388abac-8fcf-4fda-b55a-9ff0f95a22d9)
+
 - **Subset Correlation Heatmap** using **subset_df.corr()**;
+
+
 ![subset_cH](https://github.com/giacomo-carta/python-practice/assets/153180003/4f2f2f3c-36c4-4330-89c0-4f515a368a67)
+
 - **Barplot** using **sns.barplot()**;
+
+
 ![barplot](https://github.com/giacomo-carta/python-practice/assets/153180003/d0710e63-6c45-440d-bbbb-ca114c520503)
+
+
 - **Scatter Plot** using **df.plot()**;
+
+
 ![scatterplot](https://github.com/giacomo-carta/python-practice/assets/153180003/65d5acab-023c-42b3-a811-cb5b57f20a41)
+
+
 - **Boxplot** using **sns.boxplot()**;
+
+
 ![boxplot](https://github.com/giacomo-carta/python-practice/assets/153180003/b5b65918-3106-4733-a995-05ffcd118f6c)
 
 The boxplot helped to identify outliers, which were subsequently removed for a more accurate analysis. Outliers can significantly impact statistical measures and distort the interpretation of results.
