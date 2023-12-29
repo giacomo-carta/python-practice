@@ -39,8 +39,8 @@ Other functions used include **df.loc**, **df.idmax**, **df.unique**, **df.sort_
 ### Visualizations Created
 Some of the visualization created:
 
-- **Histograms** using **df.hist()**;
-- **Correlation Heatmaps** using **sns.heatmap(corr)**; 
+- **Histogram** using **df.hist()**;
+- **Correlation Heatmap** using **sns.heatmap(corr)**; 
 - **Subset Correlation Heatmap** using **subset_df.corr()**;
 - **Barplot** using **sns.barplot()**;
 - **Scatter Plot** using **df.plot()**;
