@@ -73,6 +73,12 @@ Some of the visualization created:
 
 The boxplot helped to identify outliers, which were subsequently removed for a more accurate analysis. Outliers can significantly impact statistical measures and distort the interpretation of results.
 
+## Repository Structure
+
+- The file "GDP (nominal) per Capita.csv" contains the raw data used in this practice.
+  
+- The file "Pandas Practice Notebook.ipynb" contains the Python code used for the EDA and the visualization practice.
+
 ## Contact
 
 For any questions, suggestions, or collaboration opportunities, feel free to reach out:
