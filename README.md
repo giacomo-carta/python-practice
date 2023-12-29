@@ -86,5 +86,6 @@ For any questions, suggestions, or collaboration opportunities, feel free to rea
 - LinkedIn: [Giacomo Carta](https://www.linkedin.com/in/giacomo-carta-a49986160/)
 - TableauPublic: [Giacomo Carta](https://public.tableau.com/app/profile/giacomo.carta/vizzes)
 
+## Thank You! 🌟 *And don't forget to drop a star if you liked my project!* 🚀🎉
 
 
